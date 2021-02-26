@@ -1,0 +1,43 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/igobrilhante/Desktop/github/zio-training/zio-tour/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers$Placement.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AlarmAppImproved.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CEPSolver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComputePi$PiState.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HappyEyeBallsTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AlarmAppImproved$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Logging.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AuthenticationRecover$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HappyEyeBallsTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Logging$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers$Roundtable$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers$Fork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintSequence.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestPrintln$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers$Fork$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComputePi$PiState$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AuthenticationRecover.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HappyEyeballs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers$$anonfun$$nestedInanonfun$takeForks$2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TestPrintln.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers$Placement$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComputePi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReleasableHappyEyeballs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReleasableHappyEyeballs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PrintSequence$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers$$anonfun$takeForks$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CEPSolver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ErrorRecovery$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StmDiningPhilosophers$Roundtable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ComputePi$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ErrorRecovery.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HappyEyeballs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/igobrilhante/Desktop/github/zio-training/zio-tour/target/scala-2.13/classes.bak[0m
