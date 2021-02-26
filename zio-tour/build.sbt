@@ -1,4 +1,4 @@
-name := "zio-training"
+name := "zio-tour"
 
 version := "0.1"
 
